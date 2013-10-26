@@ -1,0 +1,202 @@
+
+#container{
+margin: 10px 14px 0 20%;
+padding: 0px 0 5px 10px;
+position: relative;
+background-color:transparent;
+	with:200px;
+	height:auto; 
+}
+#form1{
+	background-color:transparent;
+}
+
+#public{
+
+
+padding: 100px 0 0 10px;
+	background-image:url("img/requestbg.jpg");
+	background-attachment:scroll;
+    background-size:cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat no-repeat;
+}
+
+
+.wufoo .info h2{
+	font-size: 30px;
+	font-family:arial;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: none;
+    margin-left:0;
+	margin-top: 13px;
+    clear: both;
+    min-height: 36px;
+}
+
+.wufoo .info div{
+	Font-family: Arial;   
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left:0;
+    margin-top: 5px;
+    clear: both;
+    min-height: 25px;
+}
+
+
+#title1{
+	font-size: 16px;
+    font-family:arial;
+}
+
+#title3{
+	font-size: 16px;
+    font-family:arial;
+}
+#title2{
+	font-size: 16px;
+    font-family:arial;
+}
+
+#title7{
+	font-size: 16px;
+    font-family:arial;
+}
+
+#title5{
+	font-size: 16px;
+    font-family:arial;
+}
+
+#title8{
+	font-size: 16px;
+    font-family:arial;
+}
+
+#Field7_1{
+		font-size: 16px;
+    font-family:arial;
+}
+#header {
+border-bottom: 0;
+}
+
+#saveForm{
+	
+	 float: right;
+    height: 40px;
+    margin-top: 20px;
+	margin-right:50%;
+    clear: both;
+    width: 168px;
+  background: #efb144;
+	border-color: #FFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+    min-width: 168px;
+    min-height: 40px;
+	position:relative;
+	border-style:none;
+	
+	}
+	
+	#saveForm:hover{
+	background-image: none;
+	background-color: #ffc051;
+	-pie-background: none;
+    margin-top: 20px;
+	font-color:#FFF;
+	}
+	
+	@media only screen and (max-width: 1200px) {
+		
+		#public{
+
+padding: 100px 0 0 10px;
+	background-image:url("img/requestbg.jpg");
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat no-repeat;
+}
+
+		
+		#container{
+margin: 10px 14px 50px 40%;
+padding: 0px 0 0px 10px;
+position: relative;
+background-color:transparent;
+	with:100%;
+	height:auto; 
+		}
+		
+		#saveForm{
+	
+     width: 15.701869158878504%;
+        height: 40px;
+        margin-top: 20px;
+       
+		margin-right: 50%;
+        clear: both;
+	
+	}
+	}
+	@media only screen and (max-width: 768px) {
+	
+	
+	#public{
+
+padding: 100px 0 0 10px;
+	background-image:url("img/requestbg.jpg");
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat no-repeat;
+}
+	}
+	
+	@media only screen and (max-width: 400px) {
+
+#public{
+	background-image:url("img/requestbg.jpg");
+    background-attachment: scroll;
+	background-size: cover;
+    background-position:-280px 0;
+    background-repeat: no-repeat no-repeat;
+}
+
+#container{
+margin: 10px 14px 50px 20%;
+padding: 10px 0 0px 10px;
+ 
+
+	}
+	}
+	
+	@media only screen and (max-width: 200px) {
+
+#public{
+	background-image:url("img/requestbg.jpg");
+    background-attachment: scroll;
+	background-size: cover;
+    background-position:-280px 0;
+    background-repeat: no-repeat no-repeat;
+}
+
+#container{
+margin: 10px 14px 50px 0;
+padding: 10px 0 0px 10px;
+
+}
+ 
